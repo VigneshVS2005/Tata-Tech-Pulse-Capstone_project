@@ -3,8 +3,8 @@ import streamlit as st
 import requests
 import pandas as pd
 
-# Backend URL — reads from env var set by Streamlit Cloud, falls back to local
-API_BASE_URL = os.environ.get("API_BASE_URL", "http://127.0.0.1:8000/api")
+# Backend URL — reads from env var set by Streamlit Cloud, falls back to live Render backend
+API_BASE_URL = os.environ.get("API_BASE_URL", "https://tata-tech-pulse-backend.onrender.com/api")
 
 st.set_page_config(
     page_title="Automotive Engineering AI Platform",
