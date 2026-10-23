@@ -65,6 +65,9 @@ python run_app.py
 
 - **API Docs:** http://127.0.0.1:8000/docs
 - **Streamlit UI:** http://localhost:8501
+- **hosted**
+   - **Streamlit App:**  https://tata-tech-pulse-capstoneproject-vigneshvs.streamlit.app/
+   - **github repo:**  https://github.com/VigneshVS2005/Tata-Tech-Pulse-Capstone_project
 
 ---
 
