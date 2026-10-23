@@ -55,6 +55,6 @@ The platform provides an evidence-backed Retrieval-Augmented Generation (RAG) sy
    - **Streamlit App:** http://localhost:8501
    - **FastAPI API Docs:** http://127.0.0.1:8000/docs
 
-   4. **hosted**
+4. **hosted**
    - **Streamlit App:**  https://tata-tech-pulse-capstoneproject-vigneshvs.streamlit.app/
    - **github repo:**  https://github.com/VigneshVS2005/Tata-Tech-Pulse-Capstone_project
